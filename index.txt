@@ -1,6 +1,7 @@
 The Ultimate Python Notes by KW Infosys
 
 Chapter 01 : Introduction
+
 The field of technology!
 What is Programming language ?
 What is Python ?
@@ -107,3 +108,119 @@ Adding data to Dictionary
 .update() method
 In and Not In Keywords with Dictionaries
 Dictionary with Loops
+
+Chapter 09 : Sets
+
+Introduction to Sets
+Removing Duplicate from Lists
+Set Methods
+In and Not In Keywords with Sets
+Set with Loops
+Union and Intersection
+
+Chapter 10 : Arguments and Keyword Arguments
+
+Introduction to Arguments
+Arguments with Normal Parameters
+*args as an Argument
+Keyword Arguments
+Parameter Order
+
+Chapter 11 : List, Dictionary and Set Comprehension
+
+List Comprehension
+List Comprehension with If Statement
+List Comprehension with If - Else Statements
+Nested List Comprehension
+Dictionary Comprehension
+Dictionary Comprehension with If - Else Statements
+Set Comprehension
+
+Chapter 12 : Lambda Function
+
+Introduction to Lambda Function
+Lambda Practice 1
+Lambda Practice 2
+Lambda Practice 3
+
+Chapter 13 : In - built Useful Functions
+
+Enumerate Function
+Map Function
+Filter Function
+Iterator v/s Iterable
+Zip Function 1
+Zip Function 2
+Advance Functions
+Any and All Function
+Any and All Practice
+Advance min() and max() function
+Advance sorted() function
+More about Functions
+
+Chapter 14 : Introduction to Object Oriented Programming
+
+Introduction to Object Oriented Programming
+Creating the First Class!
+Object Methods
+Class Methods
+Introduction to Object Oriented Programming Inheritance
+Object Oriented Programming Multilevel Inheritance
+Object Oriented Programming Multiple Inheritance
+
+Chapter 15 : Decorators
+
+Introduction to Decorators
+Decorator Wrapper Function with Arguments
+Fixing Decorator for a value returning function
+Fixing Decorator for a function with Docstring
+Decorators Practice 1
+Decorators Practice 2
+Decorators Practice 3
+Decorators with Arguments
+Function Returning Function
+Function as Argument
+
+Chapter 16 : Generators
+
+Introduction to Generators
+List v/s Generator
+Example of Generators
+Generators Practice 1
+Generators Practice 2
+
+Chapter 17 : Error Handling
+
+Built - In Python Errors
+Raising Errors
+Raising Errors Practice 1
+Raising Errors Practice 2
+Custom Exception
+Exception Handling
+Else - Finally Block
+Error Handling Practice Question
+
+Chapter 18 : Deep dive into Object Oriented Programming
+
+Object Oriented Programming Class Variables
+More About Class Variables
+Classes as Constructor
+Property Setter Decorator
+Static Method
+
+Chapter 19 : Working with Text Files
+
+Reading a Text File
+Reading a Text File using "With" Block
+Reading and Writing in a Text File
+Reading and Writing Practice Questions
+
+Chapter 20 : Working with CSV and PDF Files
+
+Reading a CSV File
+Reading a CSV File with DictReader
+Writing a CSV File
+Writing a CSV File with DictWriter
+Reading as well as Writing CSV File
+Working with PDF File
+
