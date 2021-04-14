@@ -1,0 +1,109 @@
+The Ultimate Python Notes by KW Infosys
+
+Chapter 01 : Introduction
+The field of technology!
+What is Programming language ?
+What is Python ?
+Where is Python Used ?
+Features of Python!
+What can Python do?
+
+Chapter 02 : Setup and Installation
+
+Downloading Python
+Installing Python
+What is an IDE ?
+IDE's on the market!
+Downloading Visual Studio Code
+Installing Visual Studio Code
+Understanding Visual Studio Code
+Writing the first line of Code!
+Understanding Interpreter
+Understanding REPL
+
+Chapter 03 : Basic Concepts and Fundamentals of Python Programming
+
+The print() function
+Data Types of Python
+Variables of Python
+Python as a Calculator
+String Indexing
+String Slicing
+Step Slicing
+String Methods and Functions
+Input Method
+
+Chapter 04 : Conditional Statements and Loops
+
+If Statement 
+Else Statement
+Elif Statement
+In Keyword
+Not In Keyword
+Logical Operators
+While Loop
+Infinite Loop
+For Loop
+
+Chapter 05 : Functions
+
+Introduction to Functions
+Functions with Parameters
+Parameters and Arguments
+greater() function
+grestest() function
+Creating a Table Generator
+Generating a Fibonacci Sequence
+Creating a Palindrome Tracker
+
+Chapter 06 : Lists
+
+Introduction to Lists
+.append() method
+.insert() method
+.extend() method
+.pop() method
+del keyword
+.remove() method
+.count() method
+.sort() method
+.clear() method
+.copy() method
+sorted() function
+In and Not In Keyword with Lists
+Comparing Lists!
+.split() method
+List v/s String
+List with Loops
+min() and max() functions
+What is a matrix?
+More about Lists
+
+Chapter 07 : Tuples
+
+Introduction to Tuples
+Tuple Methods and Functions
+Tuple with Loops
+Tuple with 1 element
+Tuple with parantheses
+Tuple unpacking
+List inside Tuples
+Tuple with range() function
+Function returning two values
+Conversion of Tuples
+
+Chapter 08 : Dictionaries
+
+Introduction to Dictionaries
+Accessing Data from a Dictionary
+Adding data to Dictionary
+.pop() method
+.popitem() method
+.fromkeys() method
+.get() method
+.clear() method
+.copy() method
+.items() method
+.update() method
+In and Not In Keywords with Dictionaries
+Dictionary with Loops
