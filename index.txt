@@ -223,4 +223,3 @@ Writing a CSV File
 Writing a CSV File with DictWriter
 Reading as well as Writing CSV File
 Working with PDF File
-
